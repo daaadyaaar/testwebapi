@@ -1,0 +1,26 @@
+{
+  "name": "testapi",
+  "version": "1.0.1",
+  "description": "this is a first project as a testapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daaadyaaar/testwebapi.git"
+  },
+  "keywords": [
+    "testapi"
+  ],
+  "author": "daaadyaaar <daaadyaaar@gmail.com> (daaadyaaar.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daaadyaaar/testwebapi/issues"
+  },
+  "homepage": "https://github.com/daaadyaaar/testwebapi#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  }
+}
